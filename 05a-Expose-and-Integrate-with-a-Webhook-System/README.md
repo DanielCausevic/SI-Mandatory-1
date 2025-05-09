@@ -22,7 +22,7 @@ To run the service, clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/DanielCausevic/SI-Mandatory-1.git
-cd your-repo-name
+cd SI
 npm install
 ```
 
